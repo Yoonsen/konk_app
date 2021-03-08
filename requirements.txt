@@ -1,7 +1,6 @@
 numpy
 pandas
 dhlab
-streamlit
 matplotlib
 requests
 IPython
@@ -12,4 +11,5 @@ wordcloud
 community
 python-louvain
 Pillow
+voila
 
